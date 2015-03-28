@@ -1,0 +1,7 @@
+setup.cfg
+*.pyc
+build/
+op.egg-info/
+dist/
+venv/
+key.py

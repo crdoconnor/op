@@ -1,0 +1,3 @@
+**0.1**
+
+* Initial release. Minor modifications from when the project was called 'edi'.

@@ -1,0 +1,5 @@
+Project Info
+============
+
+* Project Page: https://github.com/crdoconnor/op
+* Bug Tracking: https://github.com/crdoconnor/op/issues
